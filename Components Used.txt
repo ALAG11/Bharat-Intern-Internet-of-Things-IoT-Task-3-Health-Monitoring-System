@@ -1,0 +1,5 @@
+1. Arduino board (e.g., Arduino Uno)
+2. Blood pressure sensor module (e.g., BME280 for blood pressure and temperature)
+3. Heartbeat sensor module (e.g., Pulse sensor)
+4. ESP8266 Wi-Fi module (or any other communication module like GSM)
+5. Breadboard and jumper wires
